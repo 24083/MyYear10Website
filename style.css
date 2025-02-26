@@ -9,7 +9,7 @@ html {
     box-sizing: border-box;
 }
 
-/* reset for images to ensure they ar 100% of the parent container width */
+/* reset for images to ensure they are 100% of the parent container width */
 img {
     width: 100%;
 }
@@ -71,7 +71,7 @@ img {
 }
 
 
-/* Styling for a footer section to take a bit of spcae at the bottom of the page */
+/* Styling for a footer section to take a bit of space at the bottom of the page */
 .footer{
     background-color: rgb(243, 215, 224);
     color: white;
